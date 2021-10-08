@@ -4,13 +4,7 @@ Following are some of the outputs this project is capable of generating:
 
 1- Average Commodity price by Region 
 2- Trend analysis of commodity over time
-3- Average Commodity price 
-4- Average Commodity price 
-5- Average Commodity price 
-6- Average Commodity price 
-7- Average Commodity price 
-8- Average Commodity price 
-9- Average Commodity price
+3- Average Commodity price across the different states in Nigeria, etc.
 
 Tools to used:
 1- Microsoft Excel  2- Power BI  3- MS SQL
@@ -20,3 +14,5 @@ Techniques:
 2- Data Cleansing 
 3- Data Analysis - Using a combination of DAX and M
 4- Data Visualization
+
+https://youtu.be/klvFPB5PoMw
